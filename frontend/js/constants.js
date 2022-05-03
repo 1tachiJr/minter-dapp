@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to SpacetryNFT!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'SpacetryNFTs are a set of membership NFTs that give each holder access to an ever growing list of benefits and utilities. Spacesicles will be the first drop of the season, offering immediate access to a private discord community, weekly airdrops and giveaways, collaborative projects, a merch store, and even future voting rights in the community DAO! For more information checkout our public roadmap on <a href="https://discord.com/channels/953129369503670323/953149528884801646"  target="_blank" rel="noopener noreferrer">Discord.</a>';
+const welcome_p = 'Hello, we are Spacetry and our mission is to provide the community with as much Sustainable Utility as possible. We believe that an NFT should be more than just something to look at, and it should come with more then promises of "things to come" in the future. Enter: SpacetryNFTs, a set of membership NFTs designed to provide value and utility to its holders both upfront...as well as in the future. Upon mint, NFT holders gain access to a private discord community, weekly giveaways, airdrops, collaboration projects, holder exclusive merch, voting rights in the community DAO and thats just the beginning! For a full list of holder benefits and utilities be sure to check out our roadmap in our public <a href="https://discord.com/channels/953129369503670323/953149528884801646"  target="_blank" rel="noopener noreferrer">Discord.</a>';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Now Open!!";
